@@ -1,6 +1,6 @@
 # ca-api-gateway
 
-Automation scripts that use the CA API Gateway Rest API
+Scripts that use the CA API Gateway Rest API to automate configuration and administration of the CA API Gateway.
 
 ### Pre-requisites
 
